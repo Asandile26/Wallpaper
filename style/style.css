@@ -9,6 +9,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    height: 90vh;
 }
 .container{
     display: flex;
@@ -21,6 +22,6 @@ body{
     position: absolute;
     text-align: center;
     justify-content: center;
-    top: 65%;
+    top: 60%;
     color: #F9FBE7;
 }
