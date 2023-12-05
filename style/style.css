@@ -20,8 +20,8 @@ body{
 }
 .wallpaper{
     position: absolute;
-    text-align: center;
-    justify-content: center;
+    text-align: left;
+    justify-content: left;
     top: 60%;
-    color: #F9FBE7;
+    color: #FFFFFF;
 }
